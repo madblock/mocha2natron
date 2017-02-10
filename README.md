@@ -3,7 +3,7 @@ Converts tracking data in Clipboard got from Mocha to Natron's XML data to paste
 
 USAGE: 
 1. Press "Export tracking data" in Mocha
-2. Select format "After Effects Corner Pin [corner pin only, supports RG Warp and mochaImport] (*.txt)"
+2. Select format "After Effects Corner Pin (corner pin only, supports RG Warp and mochaImport) (*.txt)"
 3. Press "Copy to Clipboard" button
 4. Run mocha2natron.exe
 5. Enter number of first frame of your Natron composition
